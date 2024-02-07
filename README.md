@@ -1,3 +1,3 @@
 # coursera-test
-layout:config.yml
+layout:_config.yml
 Coursera test repository 
